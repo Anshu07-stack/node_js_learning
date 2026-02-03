@@ -1,0 +1,20 @@
+{
+  "name": "node-2026",
+  "version": "1.0.0",
+  "description": "node js learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshu07-stack/node_js_learning.git"
+  },
+  "author": "Anshu kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshu07-stack/node_js_learning/issues"
+  },
+  "homepage": "https://github.com/Anshu07-stack/node_js_learning#readme"
+}
