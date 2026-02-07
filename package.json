@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Anshu07-stack/node_js_learning/issues"
   },
-  "homepage": "https://github.com/Anshu07-stack/node_js_learning#readme"
+  "homepage": "https://github.com/Anshu07-stack/node_js_learning#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
